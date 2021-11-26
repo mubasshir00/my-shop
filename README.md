@@ -2,16 +2,25 @@
 
 # Backend
 
-* API
-* Project Setup
-* Database setup
 * User Signup
 * Validation
-* User Sign In using JWT
+* User Sign in using JWT
 * Auth/Admin Middleware
 * Categories - create
 * Products - CRUD
 * Products by arrival , sold , search
+* API - processing payment
+* React - processing payment with braintree dropin UI
+* delivery address
+* finalize payment
+* send order details to backend
+* saving orders
+* sold products count/update after selling
+* view all orders
+* order status update such as processing / delivered
+* profile update
+* product update
+* deployment
 
 
 # React Client 
